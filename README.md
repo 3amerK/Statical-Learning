@@ -5,7 +5,7 @@ An Introduction to Statistical Learning with Applications in R ( Gareth James, D
 
 The exercises are from the conceptual and apllied, of the following chapters: 
 
-Cap 1. Introduction
+Cap 1. Introduction  
 Cap 2. Statical Learning
 Cap 3. Linear Regression
 Cap 4. Classification
