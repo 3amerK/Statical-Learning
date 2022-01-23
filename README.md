@@ -10,4 +10,4 @@ Cap 2. Statical Learning
 Cap 3. Linear Regression
 Cap 4. Classification
 Cap 5. Resampling Methods
-Cap 6. Linear Model Selection and Regularization
+Cap 6. Linear Model Selection and Regularization 
