@@ -1,4 +1,4 @@
-# Statical-Learning
+# Statistical-Learning
 This repository is a set of exercises and projects done by me and my colleague 
 Ing. Aquiles Páez  (https://www.linkedin.com/in/aquiles-páez-78914039/) from the book: 
 An Introduction to Statistical Learning with Applications in R ( Gareth James, Daniela Witten, Trevor Hastie Robert Tibshirani)
